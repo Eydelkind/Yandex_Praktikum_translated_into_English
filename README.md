@@ -1,5 +1,9 @@
 # Mobile App Funnel Analysis and A/A/B Test
 
+[open in nbviewer](https://nbviewer.org/github/Eydelkind/Mob_app_funnel_ab_test/blob/main/mobile_app_funnel_ab_test.ipynb)
+
+This notebook contains the full analysis with interactive visualizations (Plotly).
+
 ## Project Overview
 This project analyzes user behavior in a grocery store mobile application.
 
